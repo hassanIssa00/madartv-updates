@@ -1,1 +1,8 @@
-{"status":"pending"}
+{
+  "packageId": "com.madar.madar_flutter",
+  "versionName": "1.0.45",
+  "versionCode": 50,
+  "apkUrl": "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.45-50/zaqzouka-1.0.45-50.apk",
+  "sha256": "d3207c73a54bb0bbe9386adbe3144ef5aef8dbad62b572b1ec30130c30d3d944",
+  "releaseNotes": "إصدار Android عام مع فحص التحديثات وتنزيلها من داخل التطبيق."
+}
