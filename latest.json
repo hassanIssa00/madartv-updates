@@ -1,8 +1,8 @@
 {
   "packageId": "com.madar.madar_flutter",
-  "versionName": "1.0.49",
-  "versionCode": 54,
-  "apkUrl": "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.49-54/zaqzouka-1.0.49-54.apk",
-  "sha256": "2f0df040a9a9a910d3fc622f324809b212ddca381a11cd25c64f757012e4997f",
-  "releaseNotes": "تحديث عام: إشعار تحديث داخل التطبيق وتنزيل APK من رابط عام مع التحقق من البصمة والتوقيع."
+  "versionName": "1.0.50",
+  "versionCode": 55,
+  "apkUrl": "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.50-55/zaqzouka-1.0.50-55.apk",
+  "sha256": "ee3bfc96d76beb4732e69e126784f58a9d89f99b1c1cdc2e09fc93516f467ff5",
+  "releaseNotes": "تحديث نظام التحديث وإصلاحات داخلية."
 }
