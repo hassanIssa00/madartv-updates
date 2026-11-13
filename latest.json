@@ -1,8 +1,8 @@
 {
   "packageId": "com.madar.madar_flutter",
-  "versionName": "1.0.51",
-  "versionCode": 56,
-  "apkUrl": "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.51-56/zaqzouka-1.0.51-56.apk",
-  "sha256": "74f9c699116823c19e508b998fde8f398443d7a03e5981300c01e0333ee24740",
-  "releaseNotes": "إصدار اختبار للتأكد من وصول التحديث داخل التطبيق."
+  "versionName": "1.0.52",
+  "versionCode": 57,
+  "apkUrl": "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.52-57/zaqzouka-1.0.52-57.apk",
+  "sha256": "8acef2092431b6df9f84d15584acf2b6eb8c29bdc1539ee2e9b3d9602bdcb580",
+  "releaseNotes": "تحسين فحص روابط المشاهدة واختيار أول رابط فيديو يعمل، وتجربة البدائل تلقائيًا، وتحسين حظر النوافذ والإعلانات المنبثقة."
 }
