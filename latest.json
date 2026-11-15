@@ -1,8 +1,8 @@
 {
     "packageId":  "com.madar.madar_flutter",
-    "versionName":  "1.0.58",
-    "versionCode":  63,
-    "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.58-63/zaqzouka-1.0.58-63.apk",
-    "sha256":  "e14f74157e62d65c65843a792055813d2769f19c8c014d32f1a177f5924283a3",
-    "releaseNotes":  "إصلاح جذري لمحرك الروابط العربي (Unicode URIs)، دعم السيرفرات البديلة والتلقائية، دعم مطابقة العناوين الفردية، وتحديث مشغل الفيديو"
+    "versionName":  "1.0.59",
+    "versionCode":  64,
+    "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.59-64/zaqzouka-1.0.59-64.apk",
+    "sha256":  "0b9f99a0f74929f76845d5485e27c8a0ad0d775dbf10e7600417d6e9ae3d18e6",
+    "releaseNotes":  "إصلاح التحديث التلقائي، مطابقة شهادة التوقيع لجميع الهواتف، وترقية منظومة الإشعارات وتنبيهات التحديث بالخلفية"
 }
