@@ -1,8 +1,8 @@
 {
     "packageId":  "com.madar.madar_flutter",
-    "versionName":  "1.0.59",
-    "versionCode":  64,
-    "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.59-64/zaqzouka-1.0.59-64.apk",
-    "sha256":  "0b9f99a0f74929f76845d5485e27c8a0ad0d775dbf10e7600417d6e9ae3d18e6",
-    "releaseNotes":  "إصلاح التحديث التلقائي، مطابقة شهادة التوقيع لجميع الهواتف، وترقية منظومة الإشعارات وتنبيهات التحديث بالخلفية"
+    "versionName":  "1.0.60",
+    "sha256":  "3c144d37f5e25a949605cbcb9c1e4bf619b84804c0c77c195d56c9bf8a672427",
+    "versionCode":  65,
+    "releaseNotes":  "استعادة بثوث مباريات كرة القدم وسيرفرات beIN Sports، مع منظومة التحديث التلقائي والإشعارات الفورية.",
+    "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.60-65/zaqzouka-1.0.60-65.apk"
 }
