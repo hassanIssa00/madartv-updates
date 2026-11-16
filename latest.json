@@ -1,8 +1,8 @@
 {
     "packageId":  "com.madar.madar_flutter",
-    "versionName":  "1.0.61",
-    "sha256":  "17506200256e1d3fa4efa6664ce83d8293d1db37e428642d378a0175772e6c5a",
-    "versionCode":  66,
-    "releaseNotes":  "إصدار 1 billion: فلترة وعرض مباريات اليوم حصراً، وتحديد القناة الناقلة لكل دوري (beIN Sports 1, 3, 4, 5)، وإتاحة فتح القناة والمشاهدة المباشرة بضغطة واحدة، مع عرض دقيق لحالة المباراة (جارية الآن / تبدأ الساعة كذا / انتهت).",
-    "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.61-66/zaqzouka-1.0.61-66.apk"
+    "versionName":  "1.0.67",
+    "versionCode":  72,
+    "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.67-72/zaqzouka-1.0.67-72.apk",
+    "sha256":  "212340e6517c889fa207e18966bcebca2e843521b8bf6e8cf8b7dcbc176a8109",
+    "releaseNotes":  "تحديث زقزوقة 1.0.67: حل نهائي شامل لتطابق أسماء الأفلام والمسلسلات في كافة التصنيفات (عربي، أجنبي، تركي، كوري، أنمي، قديم وجديد) مع منع الروابط الخاطئة، وتفعيل المشغل الأفقي Landscape التلقائي، وتطبيق لوحة تحليلات فلاتر للأدمن."
 }
