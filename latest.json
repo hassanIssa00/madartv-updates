@@ -1,8 +1,16 @@
 {
     "packageId":  "com.madar.madar_flutter",
-    "versionName":  "1.0.67",
-    "versionCode":  72,
-    "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.67-72/zaqzouka-1.0.67-72.apk",
-    "sha256":  "212340e6517c889fa207e18966bcebca2e843521b8bf6e8cf8b7dcbc176a8109",
-    "releaseNotes":  "تحديث زقزوقة 1.0.67: حل نهائي شامل لتطابق أسماء الأفلام والمسلسلات في كافة التصنيفات (عربي، أجنبي، تركي، كوري، أنمي، قديم وجديد) مع منع الروابط الخاطئة، وتفعيل المشغل الأفقي Landscape التلقائي، وتطبيق لوحة تحليلات فلاتر للأدمن."
+    "versionName":  "1.0.68",
+    "versionCode":  73,
+    "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.68-73/zaqzouka-1.0.68-73.apk",
+    "sha256":  "5ea30b2a8f0892f6b7ba13536ae570c9b5cbdfc14da5e7d885ccb546a6023595",
+    "releaseNotes":  "تحديث زقزوقة 1.0.68 (15-moon): حل مشكلة تكرار الأجهزة في لوحة التحليلات، منع النوافذ الإعلانية المنبثقة وتحويلات المتصفح، حل تشغيل ملخصات الكورة والشاشات السوداء، ودعم مشغل ZAG Player الجديد المستقل.",
+    "player":  {
+                   "packageName":  "com.madar.player",
+                   "versionCode":  20,
+                   "versionName":  "1.1.20",
+                   "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.68-73/zag-player-1.1.20.apk",
+                   "sha256":  "53ce3267c991ca0cbdd14f1ef3767300b9c6498dbd9f5e81aad45c57a2dae6e5",
+                   "releaseNotes":  "مشغل ZAG Player 1.1.20: هوية بصرية جديدة، ويف بار تفاعلي، دعم كامل ومستقل."
+               }
 }
