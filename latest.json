@@ -1,10 +1,10 @@
-{
+﻿{
     "packageId":  "com.madar.madar_flutter",
     "versionName":  "1.0.73",
     "versionCode":  80,
     "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.73-80/zaqzouka-1.0.73-80.apk",
     "sha256":  "ba8be6455899b4bec3ea2171bf9b7b8576b1b2fcba90766262bd1943ecf6cb33",
-    "releaseNotes":  "تحديث ضخم شامل: حل مشكلات التعليقات، تشغيل المباريات الرياضية مباشرة، حذف TopCinema نهائياً، وإضافة MySeed و ArabSeed الأصلي و WeCima كمصادر رئيسية فائقة السرعة",
+    "releaseNotes":  "تحديث جديد: تحسينات عامة وسرعة فائقة في تشغيل الأفلام والمسلسلات، تشغيل فوري للمباريات الرياضية بأعلى جودة وثبات، وإصلاح جميع المشكلات السابقة لضمان تجربة مشاهدة سلسة.",
     "player":  {
                    "packageName":  "com.mader.player",
                    "versionCode":  29,
