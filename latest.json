@@ -1,16 +1,16 @@
 {
     "packageId":  "com.madar.madar_flutter",
-    "versionName":  "1.0.71",
-    "versionCode":  76,
-    "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.71-76/zaqzouka-1.0.71-76.apk",
-    "sha256":  "56c368c39bc90cf2d11722a320903ae41108bc87e842c3de96d4c2165c3916c7",
-    "releaseNotes":  "تحديث زقزوقة 1.0.71: إظهار أسماء الأفلام والمسلسلات كاملة في كروت الاختيارات، تحديث مشغل ZAG Player 1.1.27 بإضافة زر إخفاء وإظهار الترجمة CC وتشغيل المباريات بجودة كاملة وسلسة.",
+    "versionName":  "1.0.73",
+    "versionCode":  80,
+    "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.73-80/zaqzouka-1.0.73-80.apk",
+    "sha256":  "ba8be6455899b4bec3ea2171bf9b7b8576b1b2fcba90766262bd1943ecf6cb33",
+    "releaseNotes":  "تحديث ضخم شامل: حل مشكلات التعليقات، تشغيل المباريات الرياضية مباشرة، حذف TopCinema نهائياً، وإضافة MySeed و ArabSeed الأصلي و WeCima كمصادر رئيسية فائقة السرعة",
     "player":  {
-                   "packageName":  "com.madar.player",
-                   "versionCode":  27,
-                   "versionName":  "1.1.27",
-                   "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.71-76/zag-player-1.1.27.apk",
-                   "sha256":  "c33f61530bd3f5980b178a5d9050411ea851aa467b811ea64567f9d95f8e87b5",
-                   "releaseNotes":  "مشغل ZAG Player 1.1.27: زر تشغيل وإخفاء الترجمة والنصوص التوضيحية CC، تشغيل تلقائي بأعلى جودة، ودعم كامل لمشاهدة ملخصات beIN Sports."
+                   "packageName":  "com.mader.player",
+                   "versionCode":  29,
+                   "versionName":  "1.1.29",
+                   "apkUrl":  "https://github.com/hassanIssa00/madartv-updates/releases/download/v1.0.73-80/zag-player-1.1.29.apk",
+                   "sha256":  "6b44fd53d5373800bbce8e83217b0729cc696d6a7cc8bcf66a64236b2db4e346",
+                   "releaseNotes":  "ZAG Player companion player update"
                }
 }
